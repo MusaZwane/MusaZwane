@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
+
+- Lets solve some issues together peeps!!!
+- Please tag me for some cool collaboration
+- Ping me, Lets ping each other for some help !!
+
+-->
