@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## What you see is not what you always *GET*
+#### What you see is not what you always *GET*
 
 <!--
 **MusaZwane/MusaZwane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
